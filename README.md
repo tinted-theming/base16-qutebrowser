@@ -9,5 +9,5 @@ To use, you can copy one of the config files in `themes/` or use curl:
 
 ```
 mkdir -p ~/.config/qutebrowser
-curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config >> ~/.config/qutebrowser/config.py
+curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
 ```
