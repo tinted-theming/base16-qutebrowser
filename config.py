@@ -1,4 +1,10 @@
-# Define base16 colors
+# base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
+# Base16 Shell template by theova
+
+# %%base16_template: TEMPLATE_NAME##SUBTEMPLATE_NAME %%
+
+# Everything in-beetwen the %%base16_template lines will be replaced with the colorscheme
+
 base00 = "#1d2021"
 base01 = "#3c3836"
 base02 = "#504945"
@@ -15,6 +21,8 @@ base0C = "#8ec07c"
 base0D = "#83a598"
 base0E = "#d3869b"
 base0F = "#d65d0e"
+
+# %%base16_template_end%%
 
 # set qutebrowser colors
 c.colors.completion.category.bg = base00
