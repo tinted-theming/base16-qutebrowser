@@ -1,1 +1,10 @@
 tags
+sources
+schemes
+output
+sources.yaml
+templates/*
+
+dont ignore the following files
+!templates/default.mustache
+!templates/config.yaml
