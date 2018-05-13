@@ -1,5 +1,5 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by Theo von Arx
+# Base16 qutebrowser template by theova
 # Atelier Estuary scheme by Bram de Haan (http://atelierbramdehaan.nl)
 
 
@@ -38,9 +38,9 @@ c.colors.completion.scrollbar.bg = base00
 c.colors.completion.scrollbar.fg = base05
 c.colors.downloads.bar.bg = base00
 c.colors.downloads.error.fg = base08
-c.colors.downloads.start.bg = base0C
+c.colors.downloads.start.bg = base0D
 c.colors.downloads.start.fg = base00
-c.colors.downloads.stop.bg = base0D
+c.colors.downloads.stop.bg = base0C
 c.colors.downloads.stop.fg = base00
 c.colors.hints.bg = base0A
 c.colors.hints.fg = base00
