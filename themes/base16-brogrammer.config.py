@@ -1,24 +1,24 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Solarized Light scheme by Ethan Schoonover (modified by aramisgithub)
+# Brogrammer scheme by Vik Ramanujam (http://github.com/piggyslasher)
 
 
-base00 = "#fdf6e3"
-base01 = "#eee8d5"
-base02 = "#93a1a1"
-base03 = "#839496"
-base04 = "#657b83"
-base05 = "#586e75"
-base06 = "#073642"
-base07 = "#002b36"
-base08 = "#dc322f"
-base09 = "#cb4b16"
-base0A = "#b58900"
-base0B = "#859900"
-base0C = "#2aa198"
-base0D = "#268bd2"
-base0E = "#6c71c4"
-base0F = "#d33682"
+base00 = "#1f1f1f"
+base01 = "#f81118"
+base02 = "#2dc55e"
+base03 = "#ecba0f"
+base04 = "#2a84d2"
+base05 = "#4e5ab7"
+base06 = "#1081d6"
+base07 = "#d6dbe5"
+base08 = "#d6dbe5"
+base09 = "#de352e"
+base0A = "#1dd361"
+base0B = "#f3bd09"
+base0C = "#1081d6"
+base0D = "#5350b9"
+base0E = "#0f7ddb"
+base0F = "#ffffff"
 
 
 # set qutebrowser colors

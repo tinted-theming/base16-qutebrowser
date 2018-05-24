@@ -1,24 +1,24 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Solarized Light scheme by Ethan Schoonover (modified by aramisgithub)
+# Material Vivid scheme by joshyrobot
 
 
-base00 = "#fdf6e3"
-base01 = "#eee8d5"
-base02 = "#93a1a1"
-base03 = "#839496"
-base04 = "#657b83"
-base05 = "#586e75"
-base06 = "#073642"
-base07 = "#002b36"
-base08 = "#dc322f"
-base09 = "#cb4b16"
-base0A = "#b58900"
-base0B = "#859900"
-base0C = "#2aa198"
-base0D = "#268bd2"
-base0E = "#6c71c4"
-base0F = "#d33682"
+base00 = "#263238"
+base01 = "#37474F"
+base02 = "#455A64"
+base03 = "#546E7A"
+base04 = "#90A4AE"
+base05 = "#B0BEC5"
+base06 = "#CFD8DC"
+base07 = "#ECEFF1"
+base08 = "#FF1744"
+base09 = "#FF9100"
+base0A = "#FFC400"
+base0B = "#00E676"
+base0C = "#00B0FF"
+base0D = "#2979FF"
+base0E = "#651FFF"
+base0F = "#8D6E63"
 
 
 # set qutebrowser colors

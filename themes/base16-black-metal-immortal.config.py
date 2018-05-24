@@ -1,24 +1,24 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Solarized Light scheme by Ethan Schoonover (modified by aramisgithub)
+# Black Metal (Immortal) scheme by metalelf0 (https://github.com/metalelf0)
 
 
-base00 = "#fdf6e3"
-base01 = "#eee8d5"
-base02 = "#93a1a1"
-base03 = "#839496"
-base04 = "#657b83"
-base05 = "#586e75"
-base06 = "#073642"
-base07 = "#002b36"
-base08 = "#dc322f"
-base09 = "#cb4b16"
-base0A = "#b58900"
-base0B = "#859900"
-base0C = "#2aa198"
-base0D = "#268bd2"
-base0E = "#6c71c4"
-base0F = "#d33682"
+base00 = "#000000"
+base01 = "#121212"
+base02 = "#222222"
+base03 = "#333333"
+base04 = "#999999"
+base05 = "#c1c1c1"
+base06 = "#999999"
+base07 = "#c1c1c1"
+base08 = "#5f8787"
+base09 = "#aaaaaa"
+base0A = "#556677"
+base0B = "#7799bb"
+base0C = "#aaaaaa"
+base0D = "#888888"
+base0E = "#999999"
+base0F = "#444444"
 
 
 # set qutebrowser colors

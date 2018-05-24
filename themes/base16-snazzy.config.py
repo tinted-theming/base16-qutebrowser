@@ -1,24 +1,24 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Solarized Light scheme by Ethan Schoonover (modified by aramisgithub)
+# Snazzy scheme by Chawye Hsu (https://github.com/h404bi) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
 
 
-base00 = "#fdf6e3"
-base01 = "#eee8d5"
-base02 = "#93a1a1"
-base03 = "#839496"
-base04 = "#657b83"
-base05 = "#586e75"
-base06 = "#073642"
-base07 = "#002b36"
-base08 = "#dc322f"
-base09 = "#cb4b16"
-base0A = "#b58900"
-base0B = "#859900"
-base0C = "#2aa198"
-base0D = "#268bd2"
-base0E = "#6c71c4"
-base0F = "#d33682"
+base00 = "#1e1f29"
+base01 = "#34353e"
+base02 = "#4a4b53"
+base03 = "#78787e"
+base04 = "#a5a5a9"
+base05 = "#eff0eb"
+base06 = "#f1f1f0"
+base07 = "#f1f1f0"
+base08 = "#ff5c57"
+base09 = "#ff9f43"
+base0A = "#f3f99d"
+base0B = "#5af78e"
+base0C = "#9aedfe"
+base0D = "#57c7ff"
+base0E = "#ff6ac1"
+base0F = "#b2643c"
 
 
 # set qutebrowser colors
