@@ -5,9 +5,39 @@ This repository is meant to work with
 It provides a simple template that can be used with the base16 color schemes to generate a functional config file for
 [qutebrowser](https://qutebrowser.org), a keyboard-focused browser with a minimal GUI.
 
+## Usage
+### base16-manager
+I highly recommend using `base16-qutebrowser` with [AuditeMarlow/base16-manager](https://github.com/AuditeMarlow/base16-manager). After having installed `base16-manager`, just run
+```
+base16-manager install theova/base16-qutebrowser
+base16-manager set [YOUR THEME]
+```
+
+### Once only
 To use, you can copy one of the config files in `themes/` or use curl:
 
 ```
 mkdir -p ~/.config/qutebrowser
 curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
 ```
+
+
+## Screenshots
+
+**gruvbox-dark-hard**
+![gruvbox-dark-hard](https://raw.githubusercontent.com/wiki/theova/base16-qutebrowser/screenshots/gruvbox-dark-hard.png "gruvbox-dark-hard")
+
+**gruvbox-light-hard**
+
+![gruvbox-light-hard](https://raw.githubusercontent.com/wiki/theova/base16-qutebrowser/screenshots/gruvbox-light-hard.png "gruvbox-light-hard")
+
+
+**solarized-dark**
+
+![solarized-dark](https://raw.githubusercontent.com/wiki/theova/base16-qutebrowser/screenshots/solarized-dark.png "solarized-dark")
+
+
+**solarized-light**
+
+![solarized-light](https://raw.githubusercontent.com/wiki/theova/base16-qutebrowser/screenshots/solarized-light.png "solarized-light")
+
