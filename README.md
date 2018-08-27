@@ -14,12 +14,24 @@ base16-manager set [YOUR THEME]
 ```
 
 ### Once only
-To use, you can copy one of the config files in `themes/` or use curl:
+#### GNU/Linux
+To use base16-qutebrowser, you can copy one of the config files in `themes/` to `~/.config/qutebrowser/config.py` or use `curl`:
 
 ```
 mkdir -p ~/.config/qutebrowser
 curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
 ```
+
+#### Mac OS X
+To use base16-qutebrowser, you can copy one of the config files in `themes/` to `~/.qutebrowser/config.py` or use `curl`:
+
+```
+mkdir -p ~/.qutebrowser
+curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config.py >> ~/.qutebrowser/config.py
+```
+
+#### Windows
+To use base16-qutebrowser, you can copy one of the config files in `themes/` to `%APPDATA%//qutebrowser/config.py`.
 
 
 ## Screenshots
