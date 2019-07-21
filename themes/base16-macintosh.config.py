@@ -55,6 +55,9 @@ c.colors.completion.item.selected.border.top = base0A
 # Bottom border color of the selected completion item.
 c.colors.completion.item.selected.border.bottom = base0A
 
+# Foreground color of the matched text in the selected completion item.
+c.colors.completion.item.selected.match.fg = base08
+
 # Foreground color of the matched text in the completion.
 c.colors.completion.match.fg = base0B
 
@@ -234,6 +237,30 @@ c.colors.tabs.even.fg = base05
 
 # Background color of unselected even tabs.
 c.colors.tabs.even.bg = base00
+
+# Background color of pinned unselected even tabs.
+c.colors.tabs.pinned.even.bg = base0C
+
+# Foreground color of pinned unselected even tabs.
+c.colors.tabs.pinned.even.fg = base07
+
+# Background color of pinned unselected odd tabs.
+c.colors.tabs.pinned.odd.bg = base0B
+
+# Foreground color of pinned unselected odd tabs.
+c.colors.tabs.pinned.odd.fg = base07
+
+# Background color of pinned selected even tabs.
+c.colors.tabs.pinned.selected.even.bg = base05
+
+# Foreground color of pinned selected even tabs.
+c.colors.tabs.pinned.selected.even.fg = base00
+
+# Background color of pinned selected odd tabs.
+c.colors.tabs.pinned.selected.odd.bg = base05
+
+# Foreground color of pinned selected odd tabs.
+c.colors.tabs.pinned.selected.odd.fg = base0E
 
 # Foreground color of selected odd tabs.
 c.colors.tabs.selected.odd.fg = base00
