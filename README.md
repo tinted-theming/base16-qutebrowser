@@ -34,6 +34,10 @@ curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/b
 #### Windows
 To use base16-qutebrowser, you can copy one of the config files in `themes/` to `%APPDATA%//qutebrowser/config.py`.
 
+## Releases
+Releases are [here](https://github.com/theova/base16-qutebrowser/releases). The versioning is based on `v{minimal qutebrowser-version}-{base16-qutebrowser release}`. For example, v1.7.0-1 requires at least version 1.7.0 of qutebrowser.
+
+The latest release is [here](https://github.com/theova/base16-qutebrowser/releases/latest).
 
 ## Screenshots
 
