@@ -1,3 +1,7 @@
 default:
     extension: .config.py
-    output: themes
+    output: default
+
+minimal:
+    extension: .config.py
+    output: minimal
