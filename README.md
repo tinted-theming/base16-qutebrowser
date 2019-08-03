@@ -16,23 +16,23 @@ base16-manager set [YOUR THEME]
 
 ### Once only
 #### GNU/Linux
-To use base16-qutebrowser, you can copy one of the config files in `default/` or `minimal/` to `~/.config/qutebrowser/config.py` or use `curl`:
+To use base16-qutebrowser, you can copy one of the config files in `themes/` to `~/.config/qutebrowser/config.py` or use `curl`:
 
 ```
 mkdir -p ~/.config/qutebrowser
-curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/default/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
+curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
 ```
 
 #### Mac OS X
-To use base16-qutebrowser, you can copy one of the config files in `default/` or `minimal/` to `~/.qutebrowser/config.py` or use `curl`:
+To use base16-qutebrowser, you can copy one of the config files in `themes/` to `~/.qutebrowser/config.py` or use `curl`:
 
 ```
 mkdir -p ~/.qutebrowser
-curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/default/base16-default-dark.config.py >> ~/.qutebrowser/config.py
+curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/base16-default-dark.config.py >> ~/.qutebrowser/config.py
 ```
 
 #### Windows
-To use base16-qutebrowser, you can copy one of the config files in `default/` or `minimal/` to `%APPDATA%//qutebrowser/config.py`.
+To use base16-qutebrowser, you can copy one of the config files in `themes/` to `%APPDATA%//qutebrowser/config.py`.
 
 ## Releases
 Releases are [here](https://github.com/theova/base16-qutebrowser/releases). The versioning is based on `v{minimal qutebrowser-version}-{base16-qutebrowser release}`. For example, v1.7.0-1 requires at least version 1.7.0 of qutebrowser.
