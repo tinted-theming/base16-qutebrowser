@@ -42,6 +42,9 @@ Releases are [here](https://github.com/theova/base16-qutebrowser/releases). The 
 
 The latest release is [here](https://github.com/theova/base16-qutebrowser/releases/latest).
 
+## Contributing
+Contributions are allways welcome! If you modify the templates, please commit only `templates/*`, but not `themes/*`. That way, your changes are easilier reviewable.
+
 ## Screenshots
 
 You can find more screenshots in the [wiki](../../wiki).
