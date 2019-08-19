@@ -49,7 +49,7 @@ c.colors.completion.item.selected.fg = base00
 # Background color of the selected completion item.
 c.colors.completion.item.selected.bg = base0D
 
-# Top border color of the completion widget category headers.
+# Top border color of the selected completion item
 c.colors.completion.item.selected.border.top = base0D
 
 # Bottom border color of the selected completion item.
