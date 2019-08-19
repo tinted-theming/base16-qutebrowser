@@ -7,8 +7,6 @@ It provides a simple template that can be used with the base16 color schemes to 
 
 The themes have been built using [base16-builder-python](https://github.com/InspectorMustache/base16-builder-python).
 
-## Available
-
 ## Usage
 ### base16-manager
 I highly recommend using `base16-qutebrowser` with [base16-manager](https://github.com/base16-manager/base16-manager). After having installed `base16-manager`, just run
