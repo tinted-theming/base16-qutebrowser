@@ -17,5 +17,5 @@ update:
 build:
 	$(BUILD) build -t ${REPO} -o ${OUTPUT}
 	rm -rf ${THEME_DIR}
-	mv ${OUTPUT}/${TEMPLATE}/themes/ ${THEME_DIR}/
+	mv -f ${OUTPUT}/${TEMPLATE}/themes/ ${THEME_DIR}/
 	rm -rf ${OUTPUT} ${TEMPLATE_DIR}/*/
