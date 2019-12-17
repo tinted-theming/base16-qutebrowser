@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Edge Light scheme by Sainnhepark (https://github.com/sainnhe)
+# Edge Light scheme by cjayross (https://github.com/cjayross)
 
 base00 = "#fafafa"
 base01 = "#7c9f4b"

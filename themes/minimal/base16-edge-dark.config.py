@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Edge Dark scheme by Sainnhepark (https://github.com/sainnhe)
+# Edge Dark scheme by cjayross (https://github.com/cjayross)
 
 base00 = "#262729"
 base01 = "#88909f"
