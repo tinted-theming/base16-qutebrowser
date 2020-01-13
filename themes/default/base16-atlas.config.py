@@ -67,6 +67,18 @@ c.colors.completion.scrollbar.fg = base05
 # Color of the scrollbar in the completion view.
 c.colors.completion.scrollbar.bg = base00
 
+# Background color of the context menu. If set to null, the Qt default is used.
+c.colors.contextmenu.menu.bg = base00
+
+# Foreground color of the context menu. If set to null, the Qt default is used.
+c.colors.contextmenu.menu.fg =  base05
+
+# Background color of the context menu’s selected item. If set to null, the Qt default is used.
+c.colors.contextmenu.selected.bg = base0A
+
+#Foreground color of the context menu’s selected item. If set to null, the Qt default is used.
+c.colors.contextmenu.selected.fg = base01
+
 # Background color for the download bar.
 c.colors.downloads.bar.bg = base00
 
