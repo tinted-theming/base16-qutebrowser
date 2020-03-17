@@ -8,15 +8,7 @@ It provides a simple template that can be used with the base16 color schemes to 
 The themes have been built using [base16-builder-python](https://github.com/InspectorMustache/base16-builder-python).
 
 ## Usage
-### base16-manager
-I highly recommend using `base16-qutebrowser` with [base16-manager](https://github.com/base16-manager/base16-manager). After having installed `base16-manager`, just run
-```
-base16-manager install theova/base16-qutebrowser
-base16-manager set [YOUR THEME]
-```
-
-### Once only
-#### GNU/Linux
+### GNU/Linux
 To use base16-qutebrowser, you can copy one of the config files in `themes/` to `~/.config/qutebrowser/config.py` or use `curl` (e.g for theme `default/base16-manager-gruvbox-dark.config.py`):
 
 ```
@@ -24,7 +16,7 @@ mkdir -p ~/.config/qutebrowser
 curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/default/base16-default-dark.config.py >> ~/.config/qutebrowser/config.py
 ```
 
-#### Mac OS X
+### Mac OS X
 To use base16-qutebrowser, you can copy one of the config files in `themes/` to `~/.qutebrowser/config.py` or use `curl` (e.g for theme `default/base16-manager-gruvbox-dark.config.py`):
 
 ```
@@ -32,7 +24,7 @@ mkdir -p ~/.qutebrowser
 curl https://raw.githubusercontent.com/theova/base16-qutebrowser/master/themes/default/base16-default-dark.config.py >> ~/.qutebrowser/config.py
 ```
 
-#### Windows
+### Windows
 To use base16-qutebrowser, you can copy one of the config files in `themes/` to `%APPDATA%//qutebrowser/config.py`.
 
 ## Releases
