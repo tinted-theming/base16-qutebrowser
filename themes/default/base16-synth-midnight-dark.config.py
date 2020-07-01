@@ -1,23 +1,23 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Synth Midnight Dark scheme by Michaël Ball (http://github.com/michael-ball/)
+# Synth Midnight Terminal Dark scheme by Michaël Ball (http://github.com/michael-ball/)
 
-base00 = "#040404"
-base01 = "#141414"
-base02 = "#242424"
-base03 = "#61507A"
-base04 = "#BFBBBF"
-base05 = "#DFDBDF"
-base06 = "#EFEBEF"
-base07 = "#FFFBFF"
-base08 = "#B53B50"
-base09 = "#E4600E"
-base0A = "#DAE84D"
-base0B = "#06EA61"
-base0C = "#7CEDE9"
-base0D = "#03AEFF"
-base0E = "#EA5CE2"
-base0F = "#9D4D0E"
+base00 = "#050608"
+base01 = "#1a1b1c"
+base02 = "#28292a"
+base03 = "#474849"
+base04 = "#a3a5a6"
+base05 = "#c1c3c4"
+base06 = "#cfd1d2"
+base07 = "#dddfe0"
+base08 = "#b53b50"
+base09 = "#ea770d"
+base0A = "#c9d364"
+base0B = "#06ea61"
+base0C = "#42fff9"
+base0D = "#03aeff"
+base0E = "#ea5ce2"
+base0F = "#cd6320"
 
 # set qutebrowser colors
 
