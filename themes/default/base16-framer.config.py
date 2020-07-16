@@ -61,6 +61,12 @@ c.colors.completion.item.selected.match.fg = base08
 # Foreground color of the matched text in the completion.
 c.colors.completion.match.fg = base0B
 
+# Background color of disabled items in the context menu.
+colors.contextmenu.disabled.bg = base01
+
+# Foreground color of disabled items in the context menu.
+colors.contextmenu.disabled.fg = base04
+
 # Color of the scrollbar handle in the completion view.
 c.colors.completion.scrollbar.fg = base05
 

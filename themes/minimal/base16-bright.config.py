@@ -67,6 +67,12 @@ c.colors.completion.scrollbar.fg = base05
 # Color of the scrollbar in the completion view.
 c.colors.completion.scrollbar.bg = base00
 
+# Background color of disabled items in the context menu.
+colors.contextmenu.disabled.bg = base01
+
+# Foreground color of disabled items in the context menu.
+colors.contextmenu.disabled.fg = base04
+
 # Background color of the context menu. If set to null, the Qt default is used.
 c.colors.contextmenu.menu.bg = base00
 
