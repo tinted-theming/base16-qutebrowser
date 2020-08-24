@@ -44,34 +44,34 @@ c.colors.completion.category.border.top = base00
 c.colors.completion.category.border.bottom = base00
 
 # Foreground color of the selected completion item.
-c.colors.completion.item.selected.fg = base01
+c.colors.completion.item.selected.fg = base05
 
 # Background color of the selected completion item.
-c.colors.completion.item.selected.bg = base0A
+c.colors.completion.item.selected.bg = base02
 
 # Top border color of the selected completion item.
-c.colors.completion.item.selected.border.top = base0A
+c.colors.completion.item.selected.border.top = base02
 
 # Bottom border color of the selected completion item.
-c.colors.completion.item.selected.border.bottom = base0A
+c.colors.completion.item.selected.border.bottom = base02
 
 # Foreground color of the matched text in the selected completion item.
-c.colors.completion.item.selected.match.fg = base08
+c.colors.completion.item.selected.match.fg = base0B
 
 # Foreground color of the matched text in the completion.
 c.colors.completion.match.fg = base0B
-
-# Background color of disabled items in the context menu.
-c.colors.contextmenu.disabled.bg = base01
-
-# Foreground color of disabled items in the context menu.
-c.colors.contextmenu.disabled.fg = base04
 
 # Color of the scrollbar handle in the completion view.
 c.colors.completion.scrollbar.fg = base05
 
 # Color of the scrollbar in the completion view.
 c.colors.completion.scrollbar.bg = base00
+
+# Background color of disabled items in the context menu.
+c.colors.contextmenu.disabled.bg = base01
+
+# Foreground color of disabled items in the context menu.
+c.colors.contextmenu.disabled.fg = base04
 
 # Background color of the context menu. If set to null, the Qt default is used.
 c.colors.contextmenu.menu.bg = base00
@@ -80,10 +80,10 @@ c.colors.contextmenu.menu.bg = base00
 c.colors.contextmenu.menu.fg =  base05
 
 # Background color of the context menu’s selected item. If set to null, the Qt default is used.
-c.colors.contextmenu.selected.bg = base0A
+c.colors.contextmenu.selected.bg = base02
 
 #Foreground color of the context menu’s selected item. If set to null, the Qt default is used.
-c.colors.contextmenu.selected.fg = base01
+c.colors.contextmenu.selected.fg = base05
 
 # Background color for the download bar.
 c.colors.downloads.bar.bg = base00
@@ -159,7 +159,7 @@ c.colors.prompts.border = base00
 c.colors.prompts.bg = base00
 
 # Background color for the selected item in filename prompts.
-c.colors.prompts.selected.bg = base0A
+c.colors.prompts.selected.bg = base02
 
 # Foreground color of the statusbar.
 c.colors.statusbar.normal.fg = base0B
@@ -269,28 +269,28 @@ c.colors.tabs.pinned.odd.bg = base0B
 c.colors.tabs.pinned.odd.fg = base07
 
 # Background color of pinned selected even tabs.
-c.colors.tabs.pinned.selected.even.bg = base05
+c.colors.tabs.pinned.selected.even.bg = base02
 
 # Foreground color of pinned selected even tabs.
-c.colors.tabs.pinned.selected.even.fg = base00
+c.colors.tabs.pinned.selected.even.fg = base05
 
 # Background color of pinned selected odd tabs.
-c.colors.tabs.pinned.selected.odd.bg = base05
+c.colors.tabs.pinned.selected.odd.bg = base02
 
 # Foreground color of pinned selected odd tabs.
-c.colors.tabs.pinned.selected.odd.fg = base0E
+c.colors.tabs.pinned.selected.odd.fg = base05
 
 # Foreground color of selected odd tabs.
-c.colors.tabs.selected.odd.fg = base00
+c.colors.tabs.selected.odd.fg = base05
 
 # Background color of selected odd tabs.
-c.colors.tabs.selected.odd.bg = base05
+c.colors.tabs.selected.odd.bg = base02
 
 # Foreground color of selected even tabs.
-c.colors.tabs.selected.even.fg = base00
+c.colors.tabs.selected.even.fg = base05
 
 # Background color of selected even tabs.
-c.colors.tabs.selected.even.bg = base05
+c.colors.tabs.selected.even.bg = base02
 
 # Background color for webpages if unset (or empty to use the theme's
 # color).
