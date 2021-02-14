@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Espresso scheme by Alex Mirrington (https://github.com/alexmirrington)
+# Espresso scheme by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
 
 base00 = "#2d2d2d"
 base01 = "#393939"
