@@ -1,23 +1,23 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Snazzy scheme by Chawye Hsu (https://github.com/chawyehsu) based on Hyper Snazzy Theme (https://github.com/sindresorhus/hyper-snazzy)
+# Colors scheme by mrmrs (http://clrs.cc)
 
-base00 = "#282a36"
-base01 = "#34353e"
-base02 = "#43454f"
-base03 = "#78787e"
-base04 = "#a5a5a9"
-base05 = "#e2e4e5"
-base06 = "#eff0eb"
-base07 = "#f1f1f0"
-base08 = "#ff5c57"
-base09 = "#ff9f43"
-base0A = "#f3f99d"
-base0B = "#5af78e"
-base0C = "#9aedfe"
-base0D = "#57c7ff"
-base0E = "#ff6ac1"
-base0F = "#b2643c"
+base00 = "#111111"
+base01 = "#333333"
+base02 = "#555555"
+base03 = "#777777"
+base04 = "#999999"
+base05 = "#bbbbbb"
+base06 = "#dddddd"
+base07 = "#ffffff"
+base08 = "#ff4136"
+base09 = "#ff851b"
+base0A = "#ffdc00"
+base0B = "#2ecc40"
+base0C = "#7fdbff"
+base0D = "#0074d9"
+base0E = "#b10dc9"
+base0F = "#85144b"
 
 # set qutebrowser colors
 
