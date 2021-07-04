@@ -161,6 +161,9 @@ c.colors.prompts.bg = base00
 # Background color for the selected item in filename prompts.
 c.colors.prompts.selected.bg = base02
 
+# Foreground color for the selected item in filename prompts.
+c.colors.prompts.selected.fg = base05
+
 # Foreground color of the statusbar.
 c.colors.statusbar.normal.fg = base0B
 
