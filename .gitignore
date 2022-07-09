@@ -1,12 +1,3 @@
 tags
-sources
 schemes
-output
-sources.yaml
-templates/*
 base16-qutebrowser.wiki
-
-# dont ignore the following files
-!templates/default.mustache
-!templates/minimal.mustache
-!templates/config.yaml
