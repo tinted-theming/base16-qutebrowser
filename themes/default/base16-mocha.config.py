@@ -2,7 +2,7 @@
 # Base16 qutebrowser template by theova
 # Mocha scheme by Chris Kempson (http://chriskempson.com)
 
-base00 = "#3B3228"
+base00 = "#3b3228"
 base01 = "#534636"
 base02 = "#645240"
 base03 = "#7e705a"

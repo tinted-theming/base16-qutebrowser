@@ -4,8 +4,8 @@
 
 base00 = "#002635"
 base01 = "#00384d"
-base02 = "#517F8D"
-base03 = "#6C8B91"
+base02 = "#517f8d"
+base03 = "#6c8b91"
 base04 = "#869696"
 base05 = "#a1a19a"
 base06 = "#e6e6dc"

@@ -1,14 +1,14 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Vice Dark scheme by Thomas Leon Highbaugh
+# vice scheme by Thomas Leon Highbaugh thighbaugh@zoho.com
 
-base00 = "#17191E"
+base00 = "#17191e"
 base01 = "#22262d"
 base02 = "#3c3f4c"
 base03 = "#383a47"
 base04 = "#555e70"
 base05 = "#8b9cbe"
-base06 = "#B2BFD9"
+base06 = "#b2bfd9"
 base07 = "#f4f4f7"
 base08 = "#ff29a8"
 base09 = "#85ffe0"

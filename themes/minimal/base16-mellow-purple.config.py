@@ -3,7 +3,7 @@
 # Mellow Purple scheme by gidsi
 
 base00 = "#1e0528"
-base01 = "#1A092D"
+base01 = "#1a092d"
 base02 = "#331354"
 base03 = "#320f55"
 base04 = "#873582"

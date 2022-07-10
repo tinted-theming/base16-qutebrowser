@@ -2,13 +2,13 @@
 # Base16 qutebrowser template by theova
 # Brush Trees scheme by Abraham White &lt;abelincoln.white@gmail.com&gt;
 
-base00 = "#E3EFEF"
-base01 = "#C9DBDC"
-base02 = "#B0C5C8"
-base03 = "#98AFB5"
-base04 = "#8299A1"
-base05 = "#6D828E"
-base06 = "#5A6D7A"
+base00 = "#e3efef"
+base01 = "#c9dbdc"
+base02 = "#b0c5c8"
+base03 = "#98afb5"
+base04 = "#8299a1"
+base05 = "#6d828e"
+base06 = "#5a6d7a"
 base07 = "#485867"
 base08 = "#b38686"
 base09 = "#d8bba2"

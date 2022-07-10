@@ -3,7 +3,7 @@
 # Windows High Contrast scheme by Fergus Collins (https://github.com/C-Fergus)
 
 base00 = "#000000"
-base01 = "#1C1C1C"
+base01 = "#1c1c1c"
 base02 = "#383838"
 base03 = "#545454"
 base04 = "#a2a2a2"
