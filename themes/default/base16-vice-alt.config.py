@@ -1,23 +1,23 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova
-# Primer Dark scheme by Jimmy Lin
+# Vice Alt scheme by Thomas Leon Highbaugh
 
-base00 = "#010409"
-base01 = "#21262d"
-base02 = "#30363d"
-base03 = "#484f58"
-base04 = "#8b949e"
-base05 = "#b1bac4"
-base06 = "#c9d1d9"
-base07 = "#f0f6fc"
-base08 = "#ff7b72"
-base09 = "#f0883e"
-base0A = "#d29922"
-base0B = "#3fb950"
-base0C = "#a5d6ff"
-base0D = "#58a6ff"
-base0E = "#f778ba"
-base0F = "#bd561d"
+base00 = "#1b1d24"
+base01 = "#282b36"
+base02 = "#2f303d"
+base03 = "#323643"
+base04 = "#3f4859"
+base05 = "#555e70"
+base06 = "#b2bfd9"
+base07 = "#f4f4f7"
+base08 = "#ff3d81"
+base09 = "#F67544"
+base0A = "#ffff73"
+base0B = "#44ffdd"
+base0C = "#00caff"
+base0D = "#2fb1d4"
+base0E = "#8265ff"
+base0F = "#ff00aa"
 
 # set qutebrowser colors
 

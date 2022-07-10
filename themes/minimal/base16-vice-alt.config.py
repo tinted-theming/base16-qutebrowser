@@ -1,23 +1,23 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Base16 qutebrowser template by theova and Daniel Mulford
-# Katy scheme by George Essig (https://github.com/gessig)
+# Vice Alt scheme by Thomas Leon Highbaugh
 
-base00 = "#292d3e"
-base01 = "#444267"
-base02 = "#5c598b"
-base03 = "#676e95"
-base04 = "#8796b0"
-base05 = "#959dcb"
-base06 = "#959dcb"
-base07 = "#ffffff"
-base08 = "#6e98e1"
-base09 = "#f78c6c"
-base0A = "#e0a557"
-base0B = "#78c06e"
-base0C = "#83b7e5"
-base0D = "#82aaff"
-base0E = "#c792ea"
-base0F = "#ff5370"
+base00 = "#1b1d24"
+base01 = "#282b36"
+base02 = "#2f303d"
+base03 = "#323643"
+base04 = "#3f4859"
+base05 = "#555e70"
+base06 = "#b2bfd9"
+base07 = "#f4f4f7"
+base08 = "#ff3d81"
+base09 = "#F67544"
+base0A = "#ffff73"
+base0B = "#44ffdd"
+base0C = "#00caff"
+base0D = "#2fb1d4"
+base0E = "#8265ff"
+base0F = "#ff00aa"
 
 # set qutebrowser colors
 
