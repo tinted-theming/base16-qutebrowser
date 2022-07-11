@@ -69,10 +69,10 @@ You can find more screenshots in the [wiki][6].
 
 [1]: https://github.com/base16-project/base16
 [2]: https://qutebrowser.org
-[3]: releases
-[4]: releases/latest
+[3]: ../../releases
+[4]: ../../releases/latest
 [5]: CONTRIBUTING.md
-[6]: wiki
+[6]: ../../wiki
 [7]: screenshots/gruvbox-dark-hard.png "gruvbox-dark-hard"
 [8]: screenshots/gruvbox-light-hard.png "gruvbox-light-hard"
 [9]: screenshots/solarized-dark.png "solarized-dark"
