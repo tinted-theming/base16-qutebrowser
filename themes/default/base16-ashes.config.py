@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Ashes scheme by Jannik Siebert (https://github.com/janniks)
+# Scheme name: Ashes
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1c2023"
 base01 = "#393f45"

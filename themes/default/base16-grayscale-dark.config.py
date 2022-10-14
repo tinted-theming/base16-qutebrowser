@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Grayscale Dark scheme by Alexandre Gavioli (https://github.com/Alexx2/)
+# Scheme name: Grayscale Dark
+# Scheme author: Alexandre Gavioli (https://github.com/Alexx2/)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#101010"
 base01 = "#252525"

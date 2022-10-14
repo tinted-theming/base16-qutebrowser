@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Still Alive scheme by Derrick McKee (derrick.mckee@gmail.com)
+# Scheme name: Still Alive
+# Scheme author: Derrick McKee (derrick.mckee@gmail.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f0f0f0"
 base01 = "#f0d848"

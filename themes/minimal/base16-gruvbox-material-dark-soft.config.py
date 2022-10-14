@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Gruvbox Material Dark, Soft scheme by Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Scheme name: Gruvbox Material Dark, Soft
+# Scheme author: Mayush Kumar (https://github.com/MayushKumar), sainnhe (https://github.com/sainnhe/gruvbox-material-vscode)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#32302f"
 base01 = "#3c3836"

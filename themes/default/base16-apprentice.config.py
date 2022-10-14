@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Apprentice scheme by romainl
+# Scheme name: Apprentice
+# Scheme author: romainl
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#262626"
 base01 = "#303030"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Silk Dark scheme by Gabriel Fontes (https://github.com/Misterio77)
+# Scheme name: Silk Dark
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#0e3c46"
 base01 = "#1d494e"

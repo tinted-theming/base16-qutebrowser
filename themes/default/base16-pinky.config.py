@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# pinky scheme by Benjamin (https://github.com/b3nj5m1n)
+# Scheme name: pinky
+# Scheme author: Benjamin (https://github.com/b3nj5m1n)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#171517"
 base01 = "#1b181b"

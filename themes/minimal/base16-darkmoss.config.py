@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# darkmoss scheme by Gabriel Avanzi (https://github.com/avanzzzi)
+# Scheme name: darkmoss
+# Scheme author: Gabriel Avanzi (https://github.com/avanzzzi)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#171e1f"
 base01 = "#252c2d"

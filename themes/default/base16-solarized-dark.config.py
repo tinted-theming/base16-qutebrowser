@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Solarized Dark scheme by Ethan Schoonover (modified by aramisgithub)
+# Scheme name: Solarized Dark
+# Scheme author: Ethan Schoonover (modified by aramisgithub)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#002b36"
 base01 = "#073642"

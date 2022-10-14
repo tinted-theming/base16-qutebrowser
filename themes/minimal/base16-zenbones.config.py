@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Tokyo Night Terminal Dark
-# Scheme author: Michaël Ball
+# Scheme name: Zenbones
+# Scheme author: mcchrish
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#16161e"
-base01 = "#1a1b26"
-base02 = "#2f3549"
-base03 = "#444b6a"
-base04 = "#787c99"
-base05 = "#787c99"
-base06 = "#cbccd1"
-base07 = "#d5d6db"
-base08 = "#f7768e"
-base09 = "#ff9e64"
-base0A = "#e0af68"
-base0B = "#41a6b5"
-base0C = "#7dcfff"
-base0D = "#7aa2f7"
-base0E = "#bb9af7"
-base0F = "#d18616"
+base00 = "#191919"
+base01 = "#de6e7c"
+base02 = "#819b69"
+base03 = "#b77e64"
+base04 = "#6099c0"
+base05 = "#b279a7"
+base06 = "#66a5ad"
+base07 = "#bbbbbb"
+base08 = "#3d3839"
+base09 = "#e8838f"
+base0A = "#8bae68"
+base0B = "#d68c67"
+base0C = "#61abda"
+base0D = "#cf86c1"
+base0E = "#65b8c1"
+base0F = "#8e8e8e"
 
 # set qutebrowser colors
 

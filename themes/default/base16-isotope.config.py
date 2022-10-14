@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Isotope scheme by Jan T. Sott
+# Scheme name: Isotope
+# Scheme author: Jan T. Sott
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#404040"

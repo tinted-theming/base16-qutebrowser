@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Twilight scheme by David Hart (https://github.com/hartbit)
+# Scheme name: Twilight
+# Scheme author: David Hart (https://github.com/hartbit)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1e1e1e"
 base01 = "#323537"

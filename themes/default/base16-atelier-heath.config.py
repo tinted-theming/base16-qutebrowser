@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Atelier Heath scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme name: Atelier Heath
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1b181b"
 base01 = "#292329"

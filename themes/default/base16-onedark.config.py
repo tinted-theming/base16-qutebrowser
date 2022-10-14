@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# OneDark scheme by Lalit Magant (http://github.com/tilal6991)
+# Scheme name: OneDark
+# Scheme author: Lalit Magant (http://github.com/tilal6991)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#282c34"
 base01 = "#353b45"

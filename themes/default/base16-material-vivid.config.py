@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Material Vivid scheme by joshyrobot
+# Scheme name: Material Vivid
+# Scheme author: joshyrobot
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#202124"
 base01 = "#27292c"

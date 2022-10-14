@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Stella scheme by Shrimpram
+# Scheme name: Stella
+# Scheme author: Shrimpram
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2b213c"
 base01 = "#362b48"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Darktooth scheme by Jason Milkins (https://github.com/jasonm23)
+# Scheme name: Darktooth
+# Scheme author: Jason Milkins (https://github.com/jasonm23)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1d2021"
 base01 = "#32302f"

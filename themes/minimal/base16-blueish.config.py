@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Blueish scheme by Ben Mayoras
+# Scheme name: Blueish
+# Scheme author: Ben Mayoras
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#182430"
 base01 = "#243c54"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Material Darker scheme by Nate Peterson
+# Scheme name: Material Darker
+# Scheme author: Nate Peterson
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#212121"
 base01 = "#303030"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Kimber scheme by Mishka Nguyen (https://github.com/akhsiM)
+# Scheme name: Kimber
+# Scheme author: Mishka Nguyen (https://github.com/akhsiM)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#222222"
 base01 = "#313131"

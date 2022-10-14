@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Chalk scheme by Chris Kempson (http://chriskempson.com)
+# Scheme name: Chalk
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#151515"
 base01 = "#202020"

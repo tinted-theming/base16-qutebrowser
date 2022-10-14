@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Colors scheme by mrmrs (http://clrs.cc)
+# Scheme name: Colors
+# Scheme author: mrmrs (http://clrs.cc)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#111111"
 base01 = "#333333"

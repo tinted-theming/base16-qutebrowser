@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Apathy scheme by Jannik Siebert (https://github.com/janniks)
+# Scheme name: Apathy
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#031a16"
 base01 = "#0b342d"

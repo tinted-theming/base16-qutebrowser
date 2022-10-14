@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Ayu Light scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme name: Ayu Light
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fafafa"
 base01 = "#f3f4f5"

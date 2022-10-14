@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Porple scheme by Niek den Breeje (https://github.com/AuditeMarlow)
+# Scheme name: Porple
+# Scheme author: Niek den Breeje (https://github.com/AuditeMarlow)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#292c36"
 base01 = "#333344"

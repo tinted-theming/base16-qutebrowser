@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Primer Dark Dimmed scheme by Jimmy Lin
+# Scheme name: Primer Dark Dimmed
+# Scheme author: Jimmy Lin
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1c2128"
 base01 = "#373e47"

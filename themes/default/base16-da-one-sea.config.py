@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Da One Sea scheme by NNB (https://github.com/NNBnh)
+# Scheme name: Da One Sea
+# Scheme author: NNB (https://github.com/NNBnh)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#22273d"
 base01 = "#374059"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Default Light scheme by Chris Kempson (http://chriskempson.com)
+# Scheme name: Default Light
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f8f8f8"
 base01 = "#e8e8e8"

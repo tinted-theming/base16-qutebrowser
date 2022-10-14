@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Tomorrow Night scheme by Chris Kempson (http://chriskempson.com)
+# Scheme name: Tomorrow Night
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1d1f21"
 base01 = "#282a2e"

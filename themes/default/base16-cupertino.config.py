@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Cupertino scheme by Defman21
+# Scheme name: Cupertino
+# Scheme author: Defman21
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#ffffff"
 base01 = "#c0c0c0"

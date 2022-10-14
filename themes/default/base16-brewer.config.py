@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Brewer scheme by Timothée Poisot (http://github.com/tpoisot)
+# Scheme name: Brewer
+# Scheme author: Timothée Poisot (http://github.com/tpoisot)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#0c0d0e"
 base01 = "#2e2f30"

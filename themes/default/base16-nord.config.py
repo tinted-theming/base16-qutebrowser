@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Nord scheme by arcticicestudio
+# Scheme name: Nord
+# Scheme author: arcticicestudio
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2e3440"
 base01 = "#3b4252"

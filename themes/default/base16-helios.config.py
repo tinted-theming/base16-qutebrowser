@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Helios scheme by Alex Meyer (https://github.com/reyemxela)
+# Scheme name: Helios
+# Scheme author: Alex Meyer (https://github.com/reyemxela)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1d2021"
 base01 = "#383c3e"

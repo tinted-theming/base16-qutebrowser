@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Mellow Purple scheme by gidsi
+# Scheme name: Mellow Purple
+# Scheme author: gidsi
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1e0528"
 base01 = "#1a092d"

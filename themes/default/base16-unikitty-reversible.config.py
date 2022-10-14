@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Unikitty Reversible scheme by Josh W Lewis (@joshwlewis)
+# Scheme name: Unikitty Reversible
+# Scheme author: Josh W Lewis (@joshwlewis)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2e2a31"
 base01 = "#4b484e"

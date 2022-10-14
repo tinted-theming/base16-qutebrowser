@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Hopscotch scheme by Jan T. Sott
+# Scheme name: Hopscotch
+# Scheme author: Jan T. Sott
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#322931"
 base01 = "#433b42"

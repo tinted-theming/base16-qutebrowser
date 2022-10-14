@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Atelier Savanna Light scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme name: Atelier Savanna Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#ecf4ee"
 base01 = "#dfe7e2"

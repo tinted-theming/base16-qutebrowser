@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# 3024 scheme by Jan T. Sott (http://github.com/idleberg)
+# Scheme name: 3024
+# Scheme author: Jan T. Sott (http://github.com/idleberg)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#090300"
 base01 = "#3a3432"

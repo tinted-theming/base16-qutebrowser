@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Tokyo Night Terminal Storm scheme by Michaël Ball
+# Scheme name: Tokyo Night Terminal Storm
+# Scheme author: Michaël Ball
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#24283b"
 base01 = "#1a1b26"

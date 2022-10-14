@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Google Light scheme by Seth Wright (http://sethawright.com)
+# Scheme name: Google Light
+# Scheme author: Seth Wright (http://sethawright.com)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#ffffff"
 base01 = "#e0e0e0"

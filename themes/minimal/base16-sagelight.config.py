@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Sagelight scheme by Carter Veldhuizen
+# Scheme name: Sagelight
+# Scheme author: Carter Veldhuizen
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f8f8f8"
 base01 = "#e8e8e8"

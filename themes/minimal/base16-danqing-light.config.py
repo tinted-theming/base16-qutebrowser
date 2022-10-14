@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# DanQing Light scheme by Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Scheme name: DanQing Light
+# Scheme author: Wenhan Zhu (Cosmos) (zhuwenhan950913@gmail.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fcfefd"
 base01 = "#ecf6f2"

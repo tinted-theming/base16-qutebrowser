@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# vice scheme by Thomas Leon Highbaugh thighbaugh@zoho.com
+# Scheme name: vice
+# Scheme author: Thomas Leon Highbaugh thighbaugh@zoho.com
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#17191e"
 base01 = "#22262d"

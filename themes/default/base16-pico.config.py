@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Pico scheme by PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Scheme name: Pico
+# Scheme author: PICO-8 (http://www.lexaloffle.com/pico-8.php)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#1d2b53"

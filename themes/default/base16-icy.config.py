@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Icy Dark scheme by icyphox (https://icyphox.ga)
+# Scheme name: Icy Dark
+# Scheme author: icyphox (https://icyphox.ga)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#021012"
 base01 = "#031619"

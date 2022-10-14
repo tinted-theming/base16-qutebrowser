@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Bespin scheme by Jan T. Sott
+# Scheme name: Bespin
+# Scheme author: Jan T. Sott
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#28211c"
 base01 = "#36312e"

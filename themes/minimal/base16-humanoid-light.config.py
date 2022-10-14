@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Humanoid light scheme by Thomas (tasmo) Friese
+# Scheme name: Humanoid light
+# Scheme author: Thomas (tasmo) Friese
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f8f8f2"
 base01 = "#efefe9"

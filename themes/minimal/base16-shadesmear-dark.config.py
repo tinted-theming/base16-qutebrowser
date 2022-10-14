@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# ShadeSmear Dark scheme by Kyle Giammarco (http://kyle.giammar.co)
+# Scheme name: ShadeSmear Dark
+# Scheme author: Kyle Giammarco (http://kyle.giammar.co)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#232323"
 base01 = "#1c1c1c"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Ayu Dark scheme by Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme name: Ayu Dark
+# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#0f1419"
 base01 = "#131721"

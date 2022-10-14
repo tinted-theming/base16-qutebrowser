@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Cupcake scheme by Chris Kempson (http://chriskempson.com)
+# Scheme name: Cupcake
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fbf1f2"
 base01 = "#f2f1f4"

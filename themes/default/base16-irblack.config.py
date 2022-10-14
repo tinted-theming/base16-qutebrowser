@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# IR Black scheme by Timothée Poisot (http://timotheepoisot.fr)
+# Scheme name: IR Black
+# Scheme author: Timothée Poisot (http://timotheepoisot.fr)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#242422"

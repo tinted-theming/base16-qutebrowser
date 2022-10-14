@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# OceanicNext scheme by https://github.com/voronianski/oceanic-next-color-scheme
+# Scheme name: OceanicNext
+# Scheme author: https://github.com/voronianski/oceanic-next-color-scheme
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1b2b34"
 base01 = "#343d46"

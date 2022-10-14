@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Primer Light scheme by Jimmy Lin
+# Scheme name: Primer Light
+# Scheme author: Jimmy Lin
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fafbfc"
 base01 = "#e1e4e8"

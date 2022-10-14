@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Atelier Sulphurpool Light scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme name: Atelier Sulphurpool Light
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f5f7ff"
 base01 = "#dfe2f1"

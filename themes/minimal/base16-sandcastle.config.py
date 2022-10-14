@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Sandcastle scheme by George Essig (https://github.com/gessig)
+# Scheme name: Sandcastle
+# Scheme author: George Essig (https://github.com/gessig)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#282c34"
 base01 = "#2c323b"

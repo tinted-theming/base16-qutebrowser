@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Atlas scheme by Alex Lende (https://ajlende.com)
+# Scheme name: Atlas
+# Scheme author: Alex Lende (https://ajlende.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#002635"
 base01 = "#00384d"

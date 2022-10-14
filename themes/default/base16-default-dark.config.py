@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Default Dark scheme by Chris Kempson (http://chriskempson.com)
+# Scheme name: Default Dark
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#181818"
 base01 = "#282828"

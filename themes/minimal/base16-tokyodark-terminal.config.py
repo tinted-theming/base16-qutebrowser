@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Tokyodark Terminal scheme by Tiagovla (https://github.com/tiagovla/)
+# Scheme name: Tokyodark Terminal
+# Scheme author: Tiagovla (https://github.com/tiagovla/)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#11121d"
 base01 = "#1a1b2a"

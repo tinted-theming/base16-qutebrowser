@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# iA Dark scheme by iA Inc. (modified by aramisgithub)
+# Scheme name: iA Dark
+# Scheme author: iA Inc. (modified by aramisgithub)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1a1a1a"
 base01 = "#222222"

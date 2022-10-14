@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# XCode Dusk scheme by Elsa Gonsiorowski (https://github.com/gonsie)
+# Scheme name: XCode Dusk
+# Scheme author: Elsa Gonsiorowski (https://github.com/gonsie)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#282b35"
 base01 = "#3d4048"

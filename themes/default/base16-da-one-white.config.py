@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Da One White scheme by NNB (https://github.com/NNBnh)
+# Scheme name: Da One White
+# Scheme author: NNB (https://github.com/NNBnh)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#ffffff"
 base01 = "#c8c8c8"

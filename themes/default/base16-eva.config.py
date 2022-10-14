@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Eva scheme by kjakapat (https://github.com/kjakapat)
+# Scheme name: Eva
+# Scheme author: kjakapat (https://github.com/kjakapat)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2a3b4d"
 base01 = "#3d566f"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Framer scheme by Framer (Maintained by Jesse Hoyos)
+# Scheme name: Framer
+# Scheme author: Framer (Maintained by Jesse Hoyos)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#181818"
 base01 = "#151515"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Blue Forest scheme by alonsodomin (https://github.com/alonsodomin)
+# Scheme name: Blue Forest
+# Scheme author: alonsodomin (https://github.com/alonsodomin)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#141f2e"
 base01 = "#1e5c1e"

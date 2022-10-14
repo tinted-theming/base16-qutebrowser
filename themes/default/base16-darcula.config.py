@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Darcula scheme by jetbrains
+# Scheme name: Darcula
+# Scheme author: jetbrains
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2b2b2b"
 base01 = "#323232"

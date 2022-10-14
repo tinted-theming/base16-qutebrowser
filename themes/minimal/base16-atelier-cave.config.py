@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Atelier Cave scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme name: Atelier Cave
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#19171c"
 base01 = "#26232a"

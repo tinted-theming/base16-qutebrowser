@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Rosé Pine scheme by Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Scheme name: Rosé Pine
+# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#191724"
 base01 = "#1f1d2e"

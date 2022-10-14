@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Windows 10 Light scheme by Fergus Collins (https://github.com/C-Fergus)
+# Scheme name: Windows 10 Light
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f2f2f2"
 base01 = "#e5e5e5"

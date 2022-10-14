@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Equilibrium Light scheme by Carlo Abelli
+# Scheme name: Equilibrium Light
+# Scheme author: Carlo Abelli
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f5f0e7"
 base01 = "#e7e2d9"

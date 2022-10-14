@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Black Metal (Khold) scheme by metalelf0 (https://github.com/metalelf0)
+# Scheme name: Black Metal (Khold)
+# Scheme author: metalelf0 (https://github.com/metalelf0)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#121212"

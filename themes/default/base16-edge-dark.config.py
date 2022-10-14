@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Edge Dark scheme by cjayross (https://github.com/cjayross)
+# Scheme name: Edge Dark
+# Scheme author: cjayross (https://github.com/cjayross)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#262729"
 base01 = "#88909f"

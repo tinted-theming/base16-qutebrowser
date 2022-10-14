@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Marrakesh scheme by Alexandre Gavioli (http://github.com/Alexx2/)
+# Scheme name: Marrakesh
+# Scheme author: Alexandre Gavioli (http://github.com/Alexx2/)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#201602"
 base01 = "#302e00"

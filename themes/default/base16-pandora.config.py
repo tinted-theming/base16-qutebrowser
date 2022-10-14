@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# pandora scheme by Cassandra Fox
+# Scheme name: pandora
+# Scheme author: Cassandra Fox
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#131213"
 base01 = "#2f1823"

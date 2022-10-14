@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Harmonic16 Light scheme by Jannik Siebert (https://github.com/janniks)
+# Scheme name: Harmonic16 Light
+# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f7f9fb"
 base01 = "#e5ebf1"

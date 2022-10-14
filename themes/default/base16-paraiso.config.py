@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Paraiso scheme by Jan T. Sott
+# Scheme name: Paraiso
+# Scheme author: Jan T. Sott
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2f1e2e"
 base01 = "#41323f"

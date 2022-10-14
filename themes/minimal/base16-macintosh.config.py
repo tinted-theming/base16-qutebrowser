@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Macintosh scheme by Rebecca Bettencourt (http://www.kreativekorp.com)
+# Scheme name: Macintosh
+# Scheme author: Rebecca Bettencourt (http://www.kreativekorp.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#404040"

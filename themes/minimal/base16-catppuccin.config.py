@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Catppuccin scheme by Pocco81 (https://github.com/pocco81)
+# Scheme name: Catppuccin
+# Scheme author: Pocco81 (https://github.com/pocco81)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1e1e28"
 base01 = "#1a1826"

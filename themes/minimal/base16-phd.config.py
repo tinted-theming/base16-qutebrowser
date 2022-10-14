@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# PhD scheme by Hennig Hasemann (http://leetless.de/vim.html)
+# Scheme name: PhD
+# Scheme author: Hennig Hasemann (http://leetless.de/vim.html)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#061229"
 base01 = "#2a3448"

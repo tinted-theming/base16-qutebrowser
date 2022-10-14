@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Gotham scheme by Andrea Leopardi (arranged by Brett Jones)
+# Scheme name: Gotham
+# Scheme author: Andrea Leopardi (arranged by Brett Jones)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#0c1014"
 base01 = "#11151c"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Sakura scheme by Misterio77 (http://github.com/Misterio77)
+# Scheme name: Sakura
+# Scheme author: Misterio77 (http://github.com/Misterio77)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#feedf3"
 base01 = "#f8e2e7"

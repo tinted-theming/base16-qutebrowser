@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Solar Flare Light scheme by Chuck Harmston (https://chuck.harmston.ch)
+# Scheme name: Solar Flare Light
+# Scheme author: Chuck Harmston (https://chuck.harmston.ch)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f5f7fa"
 base01 = "#e8e9ed"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Espresso scheme by Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Scheme name: Espresso
+# Scheme author: Unknown. Maintained by Alex Mirrington (https://github.com/alexmirrington)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2d2d2d"
 base01 = "#393939"

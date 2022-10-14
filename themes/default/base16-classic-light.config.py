@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Classic Light scheme by Jason Heeris (http://heeris.id.au)
+# Scheme name: Classic Light
+# Scheme author: Jason Heeris (http://heeris.id.au)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f5f5f5"
 base01 = "#e0e0e0"

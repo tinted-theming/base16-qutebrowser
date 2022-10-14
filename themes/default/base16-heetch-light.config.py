@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Heetch Light scheme by Geoffrey Teale (tealeg@gmail.com)
+# Scheme name: Heetch Light
+# Scheme author: Geoffrey Teale (tealeg@gmail.com)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#feffff"
 base01 = "#392551"

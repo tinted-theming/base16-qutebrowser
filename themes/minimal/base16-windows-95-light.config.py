@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Windows 95 Light scheme by Fergus Collins (https://github.com/C-Fergus)
+# Scheme name: Windows 95 Light
+# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fcfcfc"
 base01 = "#e0e0e0"

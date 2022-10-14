@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Pasque scheme by Gabriel Fontes (https://github.com/Misterio77)
+# Scheme name: Pasque
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#271c3a"
 base01 = "#100323"

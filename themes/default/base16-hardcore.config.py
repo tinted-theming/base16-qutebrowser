@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Hardcore scheme by Chris Caller
+# Scheme name: Hardcore
+# Scheme author: Chris Caller
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#212121"
 base01 = "#303030"

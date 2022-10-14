@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Shapeshifter scheme by Tyler Benziger (http://tybenz.com)
+# Scheme name: Shapeshifter
+# Scheme author: Tyler Benziger (http://tybenz.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f9f9f9"
 base01 = "#e0e0e0"

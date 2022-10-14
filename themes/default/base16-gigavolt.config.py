@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Gigavolt scheme by Aidan Swope (http://github.com/Whillikers)
+# Scheme name: Gigavolt
+# Scheme author: Aidan Swope (http://github.com/Whillikers)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#202126"
 base01 = "#2d303d"

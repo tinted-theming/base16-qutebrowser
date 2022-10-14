@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Material Palenight scheme by Nate Peterson
+# Scheme name: Material Palenight
+# Scheme author: Nate Peterson
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#292d3e"
 base01 = "#444267"

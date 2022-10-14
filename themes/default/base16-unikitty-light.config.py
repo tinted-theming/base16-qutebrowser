@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Unikitty Light scheme by Josh W Lewis (@joshwlewis)
+# Scheme name: Unikitty Light
+# Scheme author: Josh W Lewis (@joshwlewis)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#ffffff"
 base01 = "#e1e1e2"

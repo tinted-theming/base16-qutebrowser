@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Tango scheme by @Schnouki, based on the Tango Desktop Project
+# Scheme name: Tango
+# Scheme author: @Schnouki, based on the Tango Desktop Project
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2e3436"
 base01 = "#8ae234"

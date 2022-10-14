@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Brogrammer scheme by Vik Ramanujam (http://github.com/piggyslasher)
+# Scheme name: Brogrammer
+# Scheme author: Vik Ramanujam (http://github.com/piggyslasher)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1f1f1f"
 base01 = "#f81118"

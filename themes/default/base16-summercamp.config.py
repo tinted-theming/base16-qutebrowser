@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# summercamp scheme by zoe firi (zoefiri.github.io)
+# Scheme name: summercamp
+# Scheme author: zoe firi (zoefiri.github.io)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1c1810"
 base01 = "#2a261c"

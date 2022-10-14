@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Ocean scheme by Chris Kempson (http://chriskempson.com)
+# Scheme name: Ocean
+# Scheme author: Chris Kempson (http://chriskempson.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#2b303b"
 base01 = "#343d46"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Equilibrium Dark scheme by Carlo Abelli
+# Scheme name: Equilibrium Dark
+# Scheme author: Carlo Abelli
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#0c1118"
 base01 = "#181c22"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Atelier Lakeside scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme name: Atelier Lakeside
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#161b1d"
 base01 = "#1f292e"

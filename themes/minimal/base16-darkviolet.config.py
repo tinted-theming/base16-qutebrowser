@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Dark Violet scheme by ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Scheme name: Dark Violet
+# Scheme author: ruler501 (https://github.com/ruler501/base16-darkviolet)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#000000"
 base01 = "#231a40"

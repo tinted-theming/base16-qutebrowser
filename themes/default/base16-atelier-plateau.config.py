@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Atelier Plateau scheme by Bram de Haan (http://atelierbramdehaan.nl)
+# Scheme name: Atelier Plateau
+# Scheme author: Bram de Haan (http://atelierbramdehaan.nl)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#1b1818"
 base01 = "#292424"

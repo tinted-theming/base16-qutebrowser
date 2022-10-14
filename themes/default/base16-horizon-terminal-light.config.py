@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Horizon Terminal Light scheme by Michaël Ball (http://github.com/michael-ball/)
+# Scheme name: Horizon Terminal Light
+# Scheme author: Michaël Ball (http://github.com/michael-ball/)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fdf0ed"
 base01 = "#fadad1"

@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Tokyo City Light scheme by Michaël Ball
+# Scheme name: Tokyo City Light
+# Scheme author: Michaël Ball
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fbfbfd"
 base01 = "#f6f6f8"

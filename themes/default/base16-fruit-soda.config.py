@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Fruit Soda scheme by jozip
+# Scheme name: Fruit Soda
+# Scheme author: jozip
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f1ecf1"
 base01 = "#e0dee0"

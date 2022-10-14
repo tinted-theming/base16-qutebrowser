@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# One Light scheme by Daniel Pfeifer (http://github.com/purpleKarrot)
+# Scheme name: One Light
+# Scheme author: Daniel Pfeifer (http://github.com/purpleKarrot)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fafafa"
 base01 = "#f0f0f1"

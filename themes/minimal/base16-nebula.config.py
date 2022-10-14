@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Nebula scheme by Gabriel Fontes (https://github.com/Misterio77)
+# Scheme name: Nebula
+# Scheme author: Gabriel Fontes (https://github.com/Misterio77)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#22273b"
 base01 = "#414f60"

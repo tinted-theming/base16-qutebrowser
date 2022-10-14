@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Equilibrium Gray Light scheme by Carlo Abelli
+# Scheme name: Equilibrium Gray Light
+# Scheme author: Carlo Abelli
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#f1f1f1"
 base01 = "#e2e2e2"

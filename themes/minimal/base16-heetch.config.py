@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Heetch Dark scheme by Geoffrey Teale (tealeg@gmail.com)
+# Scheme name: Heetch Dark
+# Scheme author: Geoffrey Teale (tealeg@gmail.com)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#190134"
 base01 = "#392551"

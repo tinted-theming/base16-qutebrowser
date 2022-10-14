@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Tokyo Night Terminal Dark scheme by Michaël Ball
+# Scheme name: Tokyo Night Terminal Dark
+# Scheme author: Michaël Ball
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#16161e"
 base01 = "#1a1b26"

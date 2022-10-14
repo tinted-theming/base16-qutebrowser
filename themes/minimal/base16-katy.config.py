@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova and Daniel Mulford
-# Katy scheme by George Essig (https://github.com/gessig)
+# Scheme name: Katy
+# Scheme author: George Essig (https://github.com/gessig)
+# Template author: theova and Daniel Mulford
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#292d3e"
 base01 = "#444267"

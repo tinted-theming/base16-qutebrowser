@@ -1,6 +1,8 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Base16 qutebrowser template by theova
-# Summerfruit Light scheme by Christopher Corley (http://christop.club/)
+# Scheme name: Summerfruit Light
+# Scheme author: Christopher Corley (http://christop.club/)
+# Template author: theova
+# Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#ffffff"
 base01 = "#e0e0e0"
