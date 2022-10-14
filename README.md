@@ -67,7 +67,7 @@ You can find more screenshots in the [wiki][6].
 
 ![solarized-light][10]
 
-[1]: https://github.com/base16-project/home
+[1]: https://github.com/tinted-theming/home
 [2]: https://qutebrowser.org
 [3]: ../../releases
 [4]: ../../releases/latest
