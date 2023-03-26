@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Mountain
-# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
+# Scheme name: Catppuccin Macchiato
+# Scheme author: https://github.com/catppuccin/catppuccin
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#0f0f0f"
-base01 = "#191919"
-base02 = "#262626"
-base03 = "#4c4c4c"
-base04 = "#ac8a8c"
-base05 = "#cacaca"
-base06 = "#e7e7e7"
-base07 = "#f0f0f0"
-base08 = "#ac8a8c"
-base09 = "#ceb188"
-base0A = "#aca98a"
-base0B = "#8aac8b"
-base0C = "#8aabac"
-base0D = "#8f8aac"
-base0E = "#ac8aac"
-base0F = "#ac8a8c"
+base00 = "#24273a"
+base01 = "#1e2030"
+base02 = "#363a4f"
+base03 = "#494d64"
+base04 = "#5b6078"
+base05 = "#cad3f5"
+base06 = "#f4dbd6"
+base07 = "#b7bdf8"
+base08 = "#ed8796"
+base09 = "#f5a97f"
+base0A = "#eed49f"
+base0B = "#a6da95"
+base0C = "#8bd5ca"
+base0D = "#8aadf4"
+base0E = "#c6a0f6"
+base0F = "#f0c6c6"
 
 # set qutebrowser colors
 

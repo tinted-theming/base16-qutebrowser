@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Mountain
-# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara) based on Mountain Theme (https://github.com/mountain-theme/Mountain)
+# Scheme author: gnsfujiwara (https://github.com/gnsfujiwara)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
@@ -9,9 +9,9 @@ base01 = "#191919"
 base02 = "#262626"
 base03 = "#4c4c4c"
 base04 = "#ac8a8c"
-base05 = "#f0f0f0"
+base05 = "#cacaca"
 base06 = "#e7e7e7"
-base07 = "#cacaca"
+base07 = "#f0f0f0"
 base08 = "#ac8a8c"
 base09 = "#ceb188"
 base0A = "#aca98a"
