@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Rosé Pine Moon
-# Scheme author: Emilia Dunfelt &lt;sayhi@dunfelt.se&gt;
+# Scheme author: Emilia Dunfelt &lt;edun@dunfelt.se&gt;
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#232136"
 base01 = "#2a273f"
 base02 = "#393552"
-base03 = "#59546d"
-base04 = "#817c9c"
+base03 = "#6e6a86"
+base04 = "#908caa"
 base05 = "#e0def4"
-base06 = "#f5f5f7"
-base07 = "#d9d7e1"
-base08 = "#ecebf0"
-base09 = "#eb6f92"
-base0A = "#f6c177"
-base0B = "#ea9a97"
-base0C = "#3e8fb0"
-base0D = "#9ccfd8"
-base0E = "#c4a7e7"
-base0F = "#b9b9bc"
+base06 = "#e0def4"
+base07 = "#56526e"
+base08 = "#eb6f92"
+base09 = "#f6c177"
+base0A = "#ea9a97"
+base0B = "#3e8fb0"
+base0C = "#9ccfd8"
+base0D = "#c4a7e7"
+base0E = "#f6c177"
+base0F = "#56526e"
 
 # set qutebrowser colors
 
