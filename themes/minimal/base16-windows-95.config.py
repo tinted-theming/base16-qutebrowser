@@ -1,6 +1,6 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Windows 95
-# Scheme author: Fergus Collins (https://github.com/C-Fergus)
+# Scheme author: Fergus Collins (https://github.com/ferguscollins)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
