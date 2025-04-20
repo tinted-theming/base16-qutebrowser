@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme name: Gruvbox Light
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), morhetz (https://github.com/morhetz/gruvbox)
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#eaeef2"
-base01 = "#d0d7de"
-base02 = "#afb8c1"
-base03 = "#8c959f"
-base04 = "#6e7781"
-base05 = "#424a53"
-base06 = "#32383f"
-base07 = "#1f2328"
-base08 = "#fa4549"
-base09 = "#e16f24"
-base0A = "#bf8700"
-base0B = "#2da44e"
-base0C = "#339d9b"
-base0D = "#218bff"
-base0E = "#a475f9"
-base0F = "#4d2d00"
+base00 = "#fbf1c7"
+base01 = "#ebdbb2"
+base02 = "#d5c4a1"
+base03 = "#bdae93"
+base04 = "#7c6f64"
+base05 = "#3c3836"
+base06 = "#282828"
+base07 = "#1d2021"
+base08 = "#cc241d"
+base09 = "#d65d0e"
+base0A = "#d79921"
+base0B = "#98971a"
+base0C = "#689d6a"
+base0D = "#458588"
+base0E = "#b16286"
+base0F = "#9d0006"
 
 # set qutebrowser colors
 

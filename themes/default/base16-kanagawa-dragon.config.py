@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme name: Kanagawa Dragon
+# Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#eaeef2"
-base01 = "#d0d7de"
-base02 = "#afb8c1"
-base03 = "#8c959f"
-base04 = "#6e7781"
-base05 = "#424a53"
-base06 = "#32383f"
-base07 = "#1f2328"
-base08 = "#fa4549"
-base09 = "#e16f24"
-base0A = "#bf8700"
-base0B = "#2da44e"
-base0C = "#339d9b"
-base0D = "#218bff"
-base0E = "#a475f9"
-base0F = "#4d2d00"
+base00 = "#0d0c0c"
+base01 = "#1d1c19"
+base02 = "#282727"
+base03 = "#737c73"
+base04 = "#a6a69c"
+base05 = "#c5c9c5"
+base06 = "#7a8382"
+base07 = "#c5c9c5"
+base08 = "#c4746e"
+base09 = "#b98d7b"
+base0A = "#c4b28a"
+base0B = "#87a987"
+base0C = "#8ea4a2"
+base0D = "#8ba4b0"
+base0E = "#8992a7"
+base0F = "#a292a3"
 
 # set qutebrowser colors
 

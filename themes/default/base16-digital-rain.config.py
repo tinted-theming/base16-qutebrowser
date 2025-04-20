@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme name: Digital Rain
+# Scheme author: Nathan Byrd (https://github.com/cognitivegears)
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#eaeef2"
-base01 = "#d0d7de"
-base02 = "#afb8c1"
-base03 = "#8c959f"
-base04 = "#6e7781"
-base05 = "#424a53"
-base06 = "#32383f"
-base07 = "#1f2328"
-base08 = "#fa4549"
-base09 = "#e16f24"
-base0A = "#bf8700"
-base0B = "#2da44e"
-base0C = "#339d9b"
-base0D = "#218bff"
-base0E = "#a475f9"
-base0F = "#4d2d00"
+base00 = "#000000"
+base01 = "#4a806c"
+base02 = "#4a8d7e"
+base03 = "#7c8d7c"
+base04 = "#919893"
+base05 = "#00ff00"
+base06 = "#c4cec4"
+base07 = "#d8e2dc"
+base08 = "#c85a46"
+base09 = "#c86428"
+base0A = "#a67a50"
+base0B = "#64c83c"
+base0C = "#468c78"
+base0D = "#5482af"
+base0E = "#9472b4"
+base0F = "#b37c5e"
 
 # set qutebrowser colors
 
