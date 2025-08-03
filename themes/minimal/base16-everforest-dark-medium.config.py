@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Tomorrow
-# Scheme author: Chris Kempson (http://chriskempson.com)
+# Scheme name: Everforest Dark Medium
+# Scheme author: Sainnhe Park (https://github.com/sainnhe)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#ffffff"
-base01 = "#e0e0e0"
-base02 = "#c5c8c6"
-base03 = "#b4b7b4"
-base04 = "#969896"
-base05 = "#373b41"
-base06 = "#282a2e"
-base07 = "#1d1f21"
-base08 = "#c82829"
-base09 = "#f5871f"
-base0A = "#eab700"
-base0B = "#718c00"
-base0C = "#3e999f"
-base0D = "#4271ae"
-base0E = "#8959a8"
-base0F = "#a3685a"
+base00 = "#2d353b"
+base01 = "#343f44"
+base02 = "#3d484d"
+base03 = "#475258"
+base04 = "#7a8478"
+base05 = "#859289"
+base06 = "#9da9a0"
+base07 = "#d3c6aa"
+base08 = "#e67e80"
+base09 = "#e69875"
+base0A = "#dbbc7f"
+base0B = "#a7c080"
+base0C = "#83c092"
+base0D = "#7fbbb3"
+base0E = "#d699b6"
+base0F = "#514045"
 
 # set qutebrowser colors
 

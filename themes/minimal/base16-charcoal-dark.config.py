@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Tomorrow
-# Scheme author: Chris Kempson (http://chriskempson.com)
+# Scheme name: Charcoal Dark
+# Scheme author: Mubin Muhammad (https://github.com/mubin6th)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#ffffff"
-base01 = "#e0e0e0"
-base02 = "#c5c8c6"
-base03 = "#b4b7b4"
-base04 = "#969896"
-base05 = "#373b41"
-base06 = "#282a2e"
-base07 = "#1d1f21"
-base08 = "#c82829"
-base09 = "#f5871f"
-base0A = "#eab700"
-base0B = "#718c00"
-base0C = "#3e999f"
-base0D = "#4271ae"
-base0E = "#8959a8"
-base0F = "#a3685a"
+base00 = "#120f09"
+base01 = "#1e1812"
+base02 = "#35291d"
+base03 = "#66553f"
+base04 = "#a28662"
+base05 = "#c0a179"
+base06 = "#d6b891"
+base07 = "#292016"
+base08 = "#887254"
+base09 = "#d6b891"
+base0A = "#c0a179"
+base0B = "#927a60"
+base0C = "#a28662"
+base0D = "#d6b891"
+base0E = "#a28662"
+base0F = "#887254"
 
 # set qutebrowser colors
 
