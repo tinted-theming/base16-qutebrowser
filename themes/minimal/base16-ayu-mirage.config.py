@@ -1,14 +1,14 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Ayu Mirage
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#171b24"
-base01 = "#1f2430"
-base02 = "#242936"
-base03 = "#707a8c"
-base04 = "#8a9199"
+base00 = "#1f2430"
+base01 = "#242936"
+base02 = "#323844"
+base03 = "#4a5059"
+base04 = "#707a8c"
 base05 = "#cccac2"
 base06 = "#d9d7ce"
 base07 = "#f3f4f5"
@@ -17,9 +17,9 @@ base09 = "#ffad66"
 base0A = "#ffd173"
 base0B = "#d5ff80"
 base0C = "#95e6cb"
-base0D = "#5ccfe6"
+base0D = "#73d0ff"
 base0E = "#d4bfff"
-base0F = "#f29e74"
+base0F = "#f27983"
 
 # set qutebrowser colors
 

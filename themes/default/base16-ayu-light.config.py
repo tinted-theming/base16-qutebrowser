@@ -1,23 +1,23 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Ayu Light
-# Scheme author: Khue Nguyen &lt;Z5483Y@gmail.com&gt;
+# Scheme author: Tinted Theming (https://github.com/tinted-theming), Ayu Theme (https://github.com/ayu-theme)
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#fafafa"
-base01 = "#f3f4f5"
-base02 = "#f8f9fa"
-base03 = "#abb0b6"
-base04 = "#828c99"
-base05 = "#5c6773"
-base06 = "#242936"
-base07 = "#1a1f29"
-base08 = "#f07178"
+base00 = "#f8f9fa"
+base01 = "#edeff1"
+base02 = "#d2d4d8"
+base03 = "#a0a6ac"
+base04 = "#8a9199"
+base05 = "#5c6166"
+base06 = "#4e5257"
+base07 = "#404447"
+base08 = "#f07171"
 base09 = "#fa8d3e"
 base0A = "#f2ae49"
-base0B = "#86b300"
+base0B = "#6cbf49"
 base0C = "#4cbf99"
-base0D = "#36a3d9"
+base0D = "#399ee6"
 base0E = "#a37acc"
 base0F = "#e6ba7e"
 
