@@ -1,17 +1,17 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Edge Light
-# Scheme author: cjayross (https://github.com/cjayross)
+# Scheme author: cjayross (https://github.com/cjayross), Tinted Theming (https://github.com/tinted-theming)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
 base00 = "#fafafa"
-base01 = "#7c9f4b"
-base02 = "#d69822"
-base03 = "#5e646f"
-base04 = "#6587bf"
-base05 = "#5e646f"
-base06 = "#b870ce"
-base07 = "#5e646f"
+base01 = "#e3e5e8"
+base02 = "#acb1b9"
+base03 = "#9197a1"
+base04 = "#5e646f"
+base05 = "#474752"
+base06 = "#3a3a46"
+base07 = "#2e2e38"
 base08 = "#db7070"
 base09 = "#eba31a"
 base0A = "#ebcc1a"
