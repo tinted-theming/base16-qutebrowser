@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
 # Scheme name: Kanagawa Dragon
-# Scheme author: Tommaso Laurenzi (https://github.com/rebelot)
+# Scheme author: Stefan Weigl-Bosker (https://github.com/sweiglbosker), Tommaso Laurenzi (https://github.com/rebelot/kanagawa.nvim)
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#0d0c0c"
-base01 = "#1d1c19"
-base02 = "#282727"
-base03 = "#737c73"
-base04 = "#a6a69c"
+base00 = "#181616"
+base01 = "#282727"
+base02 = "#393836"
+base03 = "#625e5a"
+base04 = "#737c73"
 base05 = "#c5c9c5"
-base06 = "#7a8382"
+base06 = "#c8c093"
 base07 = "#c5c9c5"
 base08 = "#c4746e"
-base09 = "#b98d7b"
+base09 = "#b6927b"
 base0A = "#c4b28a"
-base0B = "#87a987"
+base0B = "#8a9a7b"
 base0C = "#8ea4a2"
 base0D = "#8ba4b0"
-base0E = "#8992a7"
-base0F = "#a292a3"
+base0E = "#a292a3"
+base0F = "#b98d7b"
 
 # set qutebrowser colors
 
