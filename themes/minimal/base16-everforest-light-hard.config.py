@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Embers Light
-# Scheme author: Jannik Siebert (https://github.com/janniks)
+# Scheme name: Everforest Light (Hard)
+# Scheme author: Márcio Sobel (https://github.com/marciosobel)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#dbd6d1"
-base01 = "#beb6ae"
-base02 = "#a39a90"
-base03 = "#8a8075"
-base04 = "#5a5047"
-base05 = "#433b32"
-base06 = "#2c2620"
-base07 = "#16130f"
-base08 = "#826d57"
-base09 = "#828257"
-base0A = "#6d8257"
-base0B = "#57826d"
-base0C = "#576d82"
-base0D = "#6d5782"
-base0E = "#82576d"
-base0F = "#825757"
+base00 = "#fffbef"
+base01 = "#f8f5e4"
+base02 = "#edeada"
+base03 = "#939f91"
+base04 = "#829181"
+base05 = "#5c6a72"
+base06 = "#414b50"
+base07 = "#272e33"
+base08 = "#f85552"
+base09 = "#f57d26"
+base0A = "#dfa000"
+base0B = "#8da101"
+base0C = "#35a77c"
+base0D = "#3a94c5"
+base0E = "#df69ba"
+base0F = "#829181"
 
 # set qutebrowser colors
 
