@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github Dark
+# Scheme name: Github Dark Dimmed
 # Scheme author: Tinted Theming (https://github.com/tinted-theming)
 # Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#0d1117"
-base01 = "#161b22"
-base02 = "#484f58"
-base03 = "#6e7681"
-base04 = "#8b949e"
-base05 = "#c9d1d9"
-base06 = "#f0f6fc"
+base00 = "#22272e"
+base01 = "#2d333b"
+base02 = "#545d68"
+base03 = "#636e7b"
+base04 = "#768390"
+base05 = "#adbac7"
+base06 = "#cdd9e5"
 base07 = "#ffffff"
-base08 = "#ffa657"
-base09 = "#79c0ff"
-base0A = "#bb8009"
-base0B = "#a5d6ff"
-base0C = "#7ee787"
-base0D = "#d2a8ff"
-base0E = "#ff7b72"
-base0F = "#ffa198"
+base08 = "#f69d50"
+base09 = "#6cb6ff"
+base0A = "#ae7c14"
+base0B = "#96d0ff"
+base0C = "#8ddb8c"
+base0D = "#dcbdfb"
+base0E = "#f47067"
+base0F = "#ff938a"
 
 # set qutebrowser colors
 
