@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github Light High Contrast
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme name: Serendipity Sunset
+# Scheme author: Micheal Andreuzza (https://michaelandreuzza.com/)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#ffffff"
-base01 = "#f6f8fa"
-base02 = "#d1d9e0"
-base03 = "#818b98"
-base04 = "#59636e"
-base05 = "#454c54"
-base06 = "#25292e"
-base07 = "#010409"
-base08 = "#a0111f"
-base09 = "#702c00"
-base0A = "#603700"
-base0B = "#024c1a"
-base0C = "#1b7c83"
-base0D = "#0349b4"
-base0E = "#622cbc"
-base0F = "#86061d"
+base00 = "#202231"
+base01 = "#272938"
+base02 = "#272938"
+base03 = "#8d8f9e"
+base04 = "#6b6d7c"
+base05 = "#dee0ef"
+base06 = "#dee0ef"
+base07 = "#202231"
+base08 = "#d1918f"
+base09 = "#d1918f"
+base0A = "#a392dc"
+base0B = "#709bbd"
+base0C = "#d6b4b4"
+base0D = "#a0b6e8"
+base0E = "#a392dc"
+base0F = "#709bbd"
 
 # set qutebrowser colors
 

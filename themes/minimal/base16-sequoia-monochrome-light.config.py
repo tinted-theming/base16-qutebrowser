@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github Light High Contrast
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
+# Scheme name: Sequoia Monochrome Light
+# Scheme author: Micheal Andreuzza (https://michaelandreuzza.com/)
 # Template author: theova and Daniel Mulford
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#ffffff"
-base01 = "#f6f8fa"
-base02 = "#d1d9e0"
-base03 = "#818b98"
-base04 = "#59636e"
-base05 = "#454c54"
-base06 = "#25292e"
-base07 = "#010409"
-base08 = "#a0111f"
-base09 = "#702c00"
-base0A = "#603700"
-base0B = "#024c1a"
-base0C = "#1b7c83"
-base0D = "#0349b4"
-base0E = "#622cbc"
-base0F = "#86061d"
+base00 = "#edeef2"
+base01 = "#e2e3e8"
+base02 = "#e2e3e8"
+base03 = "#9da2ad"
+base04 = "#42434e"
+base05 = "#282930"
+base06 = "#282930"
+base07 = "#0f1014"
+base08 = "#525666"
+base09 = "#525666"
+base0A = "#50535e"
+base0B = "#2e3038"
+base0C = "#454752"
+base0D = "#5f6370"
+base0E = "#50535e"
+base0F = "#2e3038"
 
 # set qutebrowser colors
 

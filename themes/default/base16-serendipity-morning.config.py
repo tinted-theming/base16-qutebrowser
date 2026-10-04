@@ -1,25 +1,25 @@
 # base16-qutebrowser (https://github.com/theova/base16-qutebrowser)
-# Scheme name: Github Light High Contrast
-# Scheme author: Tinted Theming (https://github.com/tinted-theming)
-# Template author: theova and Daniel Mulford
+# Scheme name: Serendipity Morning
+# Scheme author: Micheal Andreuzza (https://michaelandreuzza.com/)
+# Template author: theova
 # Commentary: Tinted Theming: (https://github.com/tinted-theming)
 
-base00 = "#ffffff"
-base01 = "#f6f8fa"
-base02 = "#d1d9e0"
-base03 = "#818b98"
-base04 = "#59636e"
-base05 = "#454c54"
-base06 = "#25292e"
-base07 = "#010409"
-base08 = "#a0111f"
-base09 = "#702c00"
-base0A = "#603700"
-base0B = "#024c1a"
-base0C = "#1b7c83"
-base0D = "#0349b4"
-base0E = "#622cbc"
-base0F = "#86061d"
+base00 = "#f6f7fb"
+base01 = "#eaebee"
+base02 = "#eaebee"
+base03 = "#6d7296"
+base04 = "#505575"
+base05 = "#3f4363"
+base06 = "#3f4363"
+base07 = "#f6f7fb"
+base08 = "#c25a4d"
+base09 = "#c25a4d"
+base0A = "#785fd0"
+base0B = "#2f7aab"
+base0C = "#e58678"
+base0D = "#6288d8"
+base0E = "#785fd0"
+base0F = "#2f7aab"
 
 # set qutebrowser colors
 
@@ -28,13 +28,13 @@ base0F = "#86061d"
 c.colors.completion.fg = base05
 
 # Background color of the completion widget for odd rows.
-c.colors.completion.odd.bg = base00
+c.colors.completion.odd.bg = base01
 
 # Background color of the completion widget for even rows.
 c.colors.completion.even.bg = base00
 
 # Foreground color of completion widget category headers.
-c.colors.completion.category.fg = base0D
+c.colors.completion.category.fg = base0A
 
 # Background color of the completion widget category headers.
 c.colors.completion.category.bg = base00
@@ -58,10 +58,10 @@ c.colors.completion.item.selected.border.top = base02
 c.colors.completion.item.selected.border.bottom = base02
 
 # Foreground color of the matched text in the selected completion item.
-c.colors.completion.item.selected.match.fg = base05
+c.colors.completion.item.selected.match.fg = base0B
 
 # Foreground color of the matched text in the completion.
-c.colors.completion.match.fg = base09
+c.colors.completion.match.fg = base0B
 
 # Color of the scrollbar handle in the completion view.
 c.colors.completion.scrollbar.fg = base05
@@ -167,52 +167,52 @@ c.colors.prompts.selected.bg = base02
 c.colors.prompts.selected.fg = base05
 
 # Foreground color of the statusbar.
-c.colors.statusbar.normal.fg = base05
+c.colors.statusbar.normal.fg = base0B
 
 # Background color of the statusbar.
 c.colors.statusbar.normal.bg = base00
 
 # Foreground color of the statusbar in insert mode.
-c.colors.statusbar.insert.fg = base0C
+c.colors.statusbar.insert.fg = base00
 
 # Background color of the statusbar in insert mode.
-c.colors.statusbar.insert.bg = base00
+c.colors.statusbar.insert.bg = base0D
 
 # Foreground color of the statusbar in passthrough mode.
-c.colors.statusbar.passthrough.fg = base0A
+c.colors.statusbar.passthrough.fg = base00
 
 # Background color of the statusbar in passthrough mode.
-c.colors.statusbar.passthrough.bg = base00
+c.colors.statusbar.passthrough.bg = base0C
 
 # Foreground color of the statusbar in private browsing mode.
-c.colors.statusbar.private.fg = base0E
+c.colors.statusbar.private.fg = base00
 
 # Background color of the statusbar in private browsing mode.
-c.colors.statusbar.private.bg = base00
+c.colors.statusbar.private.bg = base01
 
 # Foreground color of the statusbar in command mode.
-c.colors.statusbar.command.fg = base04
+c.colors.statusbar.command.fg = base05
 
 # Background color of the statusbar in command mode.
-c.colors.statusbar.command.bg = base01
+c.colors.statusbar.command.bg = base00
 
 # Foreground color of the statusbar in private browsing + command mode.
-c.colors.statusbar.command.private.fg = base0E
+c.colors.statusbar.command.private.fg = base05
 
 # Background color of the statusbar in private browsing + command mode.
-c.colors.statusbar.command.private.bg = base01
+c.colors.statusbar.command.private.bg = base00
 
 # Foreground color of the statusbar in caret mode.
-c.colors.statusbar.caret.fg = base0D
+c.colors.statusbar.caret.fg = base00
 
 # Background color of the statusbar in caret mode.
-c.colors.statusbar.caret.bg = base00
+c.colors.statusbar.caret.bg = base0E
 
 # Foreground color of the statusbar in caret mode with a selection.
-c.colors.statusbar.caret.selection.fg = base0D
+c.colors.statusbar.caret.selection.fg = base00
 
 # Background color of the statusbar in caret mode with a selection.
-c.colors.statusbar.caret.selection.bg = base00
+c.colors.statusbar.caret.selection.bg = base0D
 
 # Background color of the progress bar.
 c.colors.statusbar.progress.bg = base0D
@@ -224,11 +224,11 @@ c.colors.statusbar.url.fg = base05
 c.colors.statusbar.url.error.fg = base08
 
 # Foreground color of the URL in the statusbar for hovered links.
-c.colors.statusbar.url.hover.fg = base09
+c.colors.statusbar.url.hover.fg = base05
 
 # Foreground color of the URL in the statusbar on successful load
 # (http).
-c.colors.statusbar.url.success.http.fg = base0B
+c.colors.statusbar.url.success.http.fg = base0C
 
 # Foreground color of the URL in the statusbar on successful load
 # (https).
@@ -253,7 +253,7 @@ c.colors.tabs.indicator.error = base08
 c.colors.tabs.odd.fg = base05
 
 # Background color of unselected odd tabs.
-c.colors.tabs.odd.bg = base00
+c.colors.tabs.odd.bg = base01
 
 # Foreground color of unselected even tabs.
 c.colors.tabs.even.fg = base05
@@ -262,16 +262,16 @@ c.colors.tabs.even.fg = base05
 c.colors.tabs.even.bg = base00
 
 # Background color of pinned unselected even tabs.
-c.colors.tabs.pinned.even.bg = base0B
+c.colors.tabs.pinned.even.bg = base0C
 
 # Foreground color of pinned unselected even tabs.
-c.colors.tabs.pinned.even.fg = base00
+c.colors.tabs.pinned.even.fg = base07
 
 # Background color of pinned unselected odd tabs.
 c.colors.tabs.pinned.odd.bg = base0B
 
 # Foreground color of pinned unselected odd tabs.
-c.colors.tabs.pinned.odd.fg = base00
+c.colors.tabs.pinned.odd.fg = base07
 
 # Background color of pinned selected even tabs.
 c.colors.tabs.pinned.selected.even.bg = base02
@@ -299,4 +299,4 @@ c.colors.tabs.selected.even.bg = base02
 
 # Background color for webpages if unset (or empty to use the theme's
 # color).
-c.colors.webpage.bg = base00
+# c.colors.webpage.bg = base00
